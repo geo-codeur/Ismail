@@ -1,5 +1,5 @@
 # Ismail
-### Hi there 👋, Seydi
+### Hi there 👋, je m'appelle Camara Seydi
 #### Je suis étudiant en SIG et Télédétection 🧑‍🎓
 ![Je suis étudiant en SIG et Télédétection 🧑‍🎓](https://media.licdn.com/dms/image/v2/C4D16AQH0dVyIi4N67w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1657733316858?e=1735171200&v=beta&t=eQTUBNMpB2CFAB7gltj-Z233Yez-Y0y4YFHE9qUTBDg)
 

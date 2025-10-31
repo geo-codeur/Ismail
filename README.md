@@ -5,7 +5,7 @@
 
 je suis passionné par les nouvelles technologies 🛰️🗺️
 
-Skills: ArcGIS, QGIS, Google Earth Engine, Python
+Skills: ArcGIS, QGIS, Google Earth Engine, Python, webmapping
 
 - 🌱 I’m currently learning SIG & Télédétection 
 - 🤔 I’m looking for help with Python 
